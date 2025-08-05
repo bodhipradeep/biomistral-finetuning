@@ -11,7 +11,7 @@ It leverages the `FreedomIntelligence/medical-o1-reasoning-SFT` dataset to train
 ```bash
 biomistral-qlora-colab-finetune/
 ├── BioMistral_Unsloth.ipynb # Main Colab notebook for QLoRA fine-tuning
-├── biomistral_chat_format.jsonl # Preprocessed dataset (optional, generated)
+├── biomistral_chat_format.jsonl # Preprocessed dataset (generated)
 ├── outputs/ # Directory for saving model artifacts
 └── README.md # Project documentation
 ```
@@ -83,17 +83,17 @@ This project is open-sourced under the MIT License. Use it responsibly, especial
 
 ## 🙌 Credits
 
-BioMistral 7B
-Unsloth
-Transformers
-FreedomIntelligence Dataset
+- BioMistral 7B
+- Unsloth
+- Transformers
+- FreedomIntelligence Dataset
 
 --- 
 
 ## 🔗 Related
-🔬 QLoRA Paper
-🐍 Unsloth on GitHub
-🤗 Hugging Face Transformers
+- 🔬 QLoRA Paper
+- 🐍 Unsloth on GitHub
+- 🤗 Hugging Face Transformers
 
 ---
 
