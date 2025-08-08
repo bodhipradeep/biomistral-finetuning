@@ -16,6 +16,8 @@ biomistral-qlora-colab-finetune/
 └── README.md # Project documentation
 ```
 
+---
+
 ### Here is Training Loss Visual
 <Figure size 640x480 with 1 Axes><img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/4e32b4c5-3bdf-4abb-b710-6c555ad2eb08" />
 
