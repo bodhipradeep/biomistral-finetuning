@@ -10,12 +10,13 @@ It leverages the `FreedomIntelligence/medical-o1-reasoning-SFT` dataset to train
 
 ```bash
 biomistral-qlora-colab-finetune/
-├── BioMistral_Unsloth.ipynb # Main Colab notebook for QLoRA fine-tuning
-├── biomistral_chat_format.jsonl # Preprocessed dataset (generated)
+├── BioMistral_Lora.ipynb # Main Colab notebook for QLoRA fine-tuning
+├── Sample Data.zip # Preprocessed dataset (generated)
 ├── outputs/ # Directory for saving model artifacts
 └── README.md # Project documentation
 ```
 
+<Figure size 640x480 with 1 Axes><img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/4e32b4c5-3bdf-4abb-b710-6c555ad2eb08" />
 
 ---
 
